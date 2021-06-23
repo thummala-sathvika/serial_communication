@@ -1,0 +1,4 @@
+Develop an 8051 ALP to implement the serial communication as per the following 1. 
+If the Microcontroller receives a number “1” then generate a square wave for 1 KHz 2. 
+If the Microcontroller receives a  number “2” then generate a square wave for 2 KHz 3. 
+If the Microcontroller receives a number “3” then generate a square wave for 3 KHz
